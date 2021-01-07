@@ -1,0 +1,2 @@
+# Bag_Using_Binary_Tree
+Bag Class using binary trees to store the items. The bagexam.cxx file was used to test the bag class. The bintree.h and bintree.template are used for the binary tree class used for the bag class. The bag6.h and bag6.template are for the bag class. Since both classes are template classes the items used could be of any type that following the preconditions stated in the files.
